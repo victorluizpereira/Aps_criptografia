@@ -1,0 +1,5 @@
+/home/victor-lp/Documentos/C# de/aps_teste/aps_teste/bin/Debug/aps_teste.exe
+/home/victor-lp/Documentos/C# de/aps_teste/aps_teste/bin/Debug/aps_teste.pdb
+/home/victor-lp/Documentos/C# de/aps_teste/aps_teste/obj/x86/Debug/aps_teste.csproj.CoreCompileInputs.cache
+/home/victor-lp/Documentos/C# de/aps_teste/aps_teste/obj/x86/Debug/aps_teste.exe
+/home/victor-lp/Documentos/C# de/aps_teste/aps_teste/obj/x86/Debug/aps_teste.pdb
